@@ -1,8 +1,12 @@
 #include <stdio.h>
-#include "header.h"
+#include "main.h"
+/**
+ * main - Prints _putchar as a message.
+ *
+ * Return: Always 0 (Sucess)
+ */
 int main(void)
 {
-#include "main.h"
-	_putchar(\n);
+	_putchar("\n");
 	return (0);
 }
